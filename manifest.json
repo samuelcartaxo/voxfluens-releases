@@ -3,7 +3,7 @@
   "version": "2.0.10",
   "channel": "stable",
   "url": "https://raw.githubusercontent.com/samuelcartaxo/voxfluens-releases/main/update/2.0.10/VoxFluens-Update-2.0.10.zip",
-  "sha256": "273f3fd0d3e2836a85858c5cc0d15d3fdd0e56c370bcfb11063cfe7ec018d876",
-  "notes": "Atualização com melhorias no sistema de build, README persuasivo e estrutura de releases otimizada",
-  "published_at": "2025-12-06T12:00:00Z"
+  "sha256": "49e9cc8250618ddac27696ff89fb1d68fa36f954ba5cf7048f1766dc9d2fd1a8",
+  "notes": "",
+  "published_at": "2025-12-07T00:56:23Z"
 }
