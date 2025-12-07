@@ -2,8 +2,8 @@
   "app": "VoxFluens",
   "version": "2.0.10",
   "channel": "stable",
-  "url": "https://github.com/samuelcartaxo/voxfluens-releases/releases/download/v2.0.10/VoxFluens-Update-2.0.10.zip",
+  "url": "https://raw.githubusercontent.com/samuelcartaxo/voxfluens-releases/main/update/2.0.10/VoxFluens-Update-2.0.10.zip",
   "sha256": "273f3fd0d3e2836a85858c5cc0d15d3fdd0e56c370bcfb11063cfe7ec018d876",
-  "notes": "Atualiza\u00e7\u00e3o com melhorias no sistema de build, README persuasivo e estrutura de releases otimizada",
+  "notes": "Atualização com melhorias no sistema de build, README persuasivo e estrutura de releases otimizada",
   "published_at": "2025-12-06T12:00:00Z"
 }
