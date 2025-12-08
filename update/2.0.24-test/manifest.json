@@ -1,0 +1,10 @@
+{
+  "app": "VoxFluens",
+  "version": "2.0.24-test",
+  "channel": "stable",
+  "url": "https://raw.githubusercontent.com/samuelcartaxo/voxfluens-releases/main/update/2.0.24-test/VoxFluens-2.0.24-test.zip",
+  "sha256": "cd8e3cc246f31720e5d42b685887ceda4766d7a5929aa09ed0d7204bc82cd626",
+  "notes": "",
+  "exe_release": false,
+  "published_at": "2025-12-08T00:31:17+00:00"
+}
