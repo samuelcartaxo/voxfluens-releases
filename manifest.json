@@ -1,10 +1,10 @@
 {
   "app": "VoxFluens",
-  "version": "2.2.9",
+  "version": "2.2.10",
   "channel": "stable",
-  "url": "https://raw.githubusercontent.com/samuelcartaxo/voxfluens-releases/main/update/2.2.9/VoxFluens-2.2.9.zip",
-  "sha256": "38449fb9e7e37eb1aae76fc1e95ffc4861b9e40a0ad15f8a62c3f5b25095414d",
+  "url": "https://raw.githubusercontent.com/samuelcartaxo/voxfluens-releases/main/update/2.2.10/VoxFluens-2.2.10.zip",
+  "sha256": "54ac910d1e692a647fad6df330c63fe63460269efd6dc365a1a7e04498d91851",
   "notes": "",
   "exe_release": false,
-  "published_at": "2026-01-11T20:33:29+00:00"
+  "published_at": "2026-01-11T20:52:10+00:00"
 }
