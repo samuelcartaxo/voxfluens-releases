@@ -1,0 +1,10 @@
+{
+  "app": "VoxFluens",
+  "version": "2.2.38",
+  "channel": "stable",
+  "url": "https://raw.githubusercontent.com/samuelcartaxo/voxfluens-releases/main/update/2.2.38/VoxFluens-2.2.38.zip",
+  "sha256": "9cb3e515ff64671ed0dde6e6f7469dc2adbcb7a1c1c375d2e2609e90058eabeb",
+  "notes": "",
+  "exe_release": false,
+  "published_at": "2026-01-12T23:22:09+00:00"
+}
