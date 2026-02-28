@@ -79,4 +79,4 @@ scripts/test_upload*.txt
 scripts/test_upload*.py
 
 # Git LFS files are tracked separately
-*.gitattributes
+
