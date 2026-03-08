@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+*.exe
+*.zip
+*.sha256
+
 # Distribution / packaging
 .Python
 build/
@@ -80,3 +84,5 @@ scripts/test_upload*.py
 
 # Git LFS files are tracked separately
 
+setup/latest/Setup_VoxFluens_latest.exe
+setup/latest/Setup_VoxFluens_latest.exe
