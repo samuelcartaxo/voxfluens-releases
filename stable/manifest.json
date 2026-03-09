@@ -1,16 +1,16 @@
 {
   "app": "VoxFluens",
-  "version": "2.4.101",
+  "version": "2.4.102",
   "channel": "stable",
-  "url": "https://github.com/samuelcartaxo/voxfluens-releases/releases/download/v2.4.101/app-2.4.101.zip",
-  "sha256": "CFADCA6DE26A0B945011B91409A4411B50FF418C0835EDCFB1A46CCB7336C478",
+  "url": "https://github.com/samuelcartaxo/voxfluens-releases/releases/download/v2.4.102/app-2.4.102.zip",
+  "sha256": "82C8D0FED1AAE1B89DAD15C633A6928EB8165E5C68D3C71321C42E505ABA0CE7",
   "notes": "",
   "exe_release": false,
-  "published_at": "2026-03-08T19:23:45-03:00",
+  "published_at": "2026-03-08T21:00:58-03:00",
   "assets": {
-    "app-2.4.101.zip": "https://github.com/samuelcartaxo/voxfluens-releases/releases/download/v2.4.101/app-2.4.101.zip",
-    "app-2.4.101.sha256": "https://github.com/samuelcartaxo/voxfluens-releases/releases/download/v2.4.101/app-2.4.101.sha256",
-    "VoxFluens-2.4.101.zip": "https://github.com/samuelcartaxo/voxfluens-releases/releases/download/v2.4.101/VoxFluens-2.4.101.zip",
-    "VoxFluens-2.4.101.sha256": "https://github.com/samuelcartaxo/voxfluens-releases/releases/download/v2.4.101/VoxFluens-2.4.101.sha256"
+    "app-2.4.102.zip": "https://github.com/samuelcartaxo/voxfluens-releases/releases/download/v2.4.102/app-2.4.102.zip",
+    "app-2.4.102.sha256": "https://github.com/samuelcartaxo/voxfluens-releases/releases/download/v2.4.102/app-2.4.102.sha256",
+    "VoxFluens-2.4.102.zip": "https://github.com/samuelcartaxo/voxfluens-releases/releases/download/v2.4.102/VoxFluens-2.4.102.zip",
+    "VoxFluens-2.4.102.sha256": "https://github.com/samuelcartaxo/voxfluens-releases/releases/download/v2.4.102/VoxFluens-2.4.102.sha256"
   }
 }
