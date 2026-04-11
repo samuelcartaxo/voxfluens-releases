@@ -1,14 +1,14 @@
 {
   "app": "VoxFluens",
-  "version": "2.4.199",
+  "version": "2.4.200",
   "channel": "stable",
-  "url": "https://github.com/samuelcartaxo/voxfluens-releases/releases/download/v2.4.199/app-2.4.199.zip",
-  "sha256": "B08D4C7778AB4A28A487AE70C32E324F1FB435F5CAD3395669D8AC1D3BEE3DDE",
+  "url": "https://github.com/samuelcartaxo/voxfluens-releases/releases/download/v2.4.200/app-2.4.200.zip",
+  "sha256": "7DB31AF59078F9F9310040D28D8BFC7732A1932694A9B62B4C604E086FF8A70E",
   "notes": "",
   "exe_release": false,
-  "published_at": "2026-04-10T23:22:56-03:00",
+  "published_at": "2026-04-11T10:53:37-03:00",
   "assets": {
-    "app-2.4.199.zip": "https://github.com/samuelcartaxo/voxfluens-releases/releases/download/v2.4.199/app-2.4.199.zip",
-    "app-2.4.199.sha256": "https://github.com/samuelcartaxo/voxfluens-releases/releases/download/v2.4.199/app-2.4.199.sha256"
+    "app-2.4.200.zip": "https://github.com/samuelcartaxo/voxfluens-releases/releases/download/v2.4.200/app-2.4.200.zip",
+    "app-2.4.200.sha256": "https://github.com/samuelcartaxo/voxfluens-releases/releases/download/v2.4.200/app-2.4.200.sha256"
   }
 }
