@@ -87,3 +87,4 @@ scripts/test_upload*.py
 setup/latest/Setup_VoxFluens_latest.exe
 setup/latest/Setup_VoxFluens_latest.exe
 /sync.ffs_db
+/RecycleBin~*.ffs_tmp/*
